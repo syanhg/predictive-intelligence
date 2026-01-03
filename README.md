@@ -383,27 +383,3 @@ If you use Prophet Arena in your research, please cite:
 }
 ```
 
-## Support
-
-- 📖 [Documentation](docs/)
-- 🐛 [Issue Tracker](https://github.com/syanhg/predictive-intelligence/issues)
-- 💬 [Discussions](https://github.com/syanhg/predictive-intelligence/discussions)
-- 📧 Email: support@example.com
-
-## Roadmap
-
-- [ ] Real-time event streaming
-- [ ] Advanced LLM reasoning chains
-- [ ] Ensemble forecasting methods
-- [ ] Web3 integration for decentralized predictions
-- [ ] Mobile app
-- [ ] Advanced analytics dashboard
-- [ ] Automated strategy generation
-
-## Related Projects
-
-- [Metaculus](https://www.metaculus.com/) - Forecasting platform
-- [Good Judgment Open](https://www.gjopen.com/) - Collaborative forecasting
-- [Kalshi](https://www.kalshi.com/) - Prediction markets
-
----
