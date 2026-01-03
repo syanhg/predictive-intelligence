@@ -17,25 +17,25 @@ Prophet Arena is a comprehensive, open-source implementation of a live forecasti
 
 ## Key Features
 
-### 📊 Multi-Dimensional Evaluation
+### Multi-Dimensional Evaluation
 - **Brier Score**: Measure absolute forecast accuracy
 - **Calibration Error**: Assess reliability and confidence calibration
 - **Market Return**: Evaluate economic value against market consensus
 
-### 🔄 Modular Pipeline
+### Modular Pipeline
 1. **Event & Market Extraction**: Real-time event discovery from prediction markets
 2. **Context Construction**: Automated news retrieval and market snapshot integration
 3. **Prediction**: LLM-powered probabilistic forecasting
 4. **Evaluation**: Comprehensive performance metrics across multiple dimensions
 
-### 🧠 Mechanistic Analysis
+### Mechanistic Analysis
 - Knowledge internalization tracking
 - Source utilization analysis
 - Reasoning synthesis evaluation
 - Evidence extraction quality assessment
 - Uncertainty quantification
 
-### 🚀 Deployment Ready
+### Deployment Ready
 - Docker containerization for easy deployment
 - GitHub Actions CI/CD pipeline
 - Vercel-ready frontend
@@ -407,5 +407,3 @@ If you use Prophet Arena in your research, please cite:
 - [Kalshi](https://www.kalshi.com/) - Prediction markets
 
 ---
-
-**Made with ❤️ by the Predictive Intelligence team**
